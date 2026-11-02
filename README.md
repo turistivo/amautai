@@ -14,7 +14,7 @@ The production configuration targets one Amautai Worker and its D1 database in t
 
 The last documented public release includes teacher onboarding and persisted second-grade Mathematics session drafts. The integrated onboarding and games were checked locally; merging or pushing this code does not deploy it. See [project status](PROJECT_STATUS.md) and [teacher onboarding and session drafts](docs/TEACHER_ONBOARDING.md).
 
-The public `/lista-de-espera` page lists respondent names from the family and teacher surveys in separate columns. It does not show phone numbers or survey answers. The names are a snapshot and are not synchronized automatically. See [survey method and results](docs/PROBLEM_VALIDATION_SURVEYS.md).
+The public `/lista-de-espera` page lists respondent names from the family and teacher surveys in separate columns. It does not show phone numbers or survey answers. The names are a snapshot and are not synchronized automatically. See [survey method and results](docs/PROBLEM_VALIDATION_SURVEYS.md). Copy-ready Spanish [WhatsApp survey invitations](docs/PROBLEM_VALIDATION_SURVEYS.md#whatsapp-invitation-messages) are documented alongside the respondent links.
 
 Teachers can now register a student's name with their **father, mother, or guardian's phone number** and assign the room's game through WhatsApp. The personal link opens a student-only activity without a teacher login and saves progress in the teacher's room. This local change requires migration 0016 and a connected gateway before production delivery. See [student assignments](docs/STUDENT_ASSIGNMENTS.md) for delivery states, access boundaries, and verification.
 

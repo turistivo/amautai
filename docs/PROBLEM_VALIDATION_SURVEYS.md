@@ -1,6 +1,6 @@
 # Problem validation surveys
 
-Updated: October 17, 2026.
+Documentation updated: November 2, 2026.
 
 ## Access
 
@@ -10,6 +10,30 @@ Updated: October 17, 2026.
 | Parents and guardians | [Family survey](https://docs.google.com/forms/d/e/1FAIpQLScM9I69A8q4SC6l3aEp1bb7LUJuXN_vr3pM4tVtuyeh2B4zqA/viewform) | [Family editor](https://docs.google.com/forms/d/1ZEfygmDEPeS0-im8xT7nUy50ceU_PwBwS7y3yPc1ncQ/edit) |
 
 Share respondent links with participants. Editor links require access permissions; open the Responses tab to review submissions. Respondents are not required to sign in, and email collection is disabled.
+
+## WhatsApp invitation messages
+
+Copy the approved Spanish messages below with their paragraph breaks, emojis, and direct respondent links. These invitations describe recent mathematics experiences without naming the product or promising benefits.
+
+### Parents and guardians
+
+```text
+🧮 Si tienes un hijo o hija en primaria, esta encuesta es para ti.
+
+💬 Cuéntanos cómo has acompañado sus actividades de matemáticas durante las últimas cuatro semanas.
+
+🔗 https://docs.google.com/forms/d/e/1FAIpQLScM9I69A8q4SC6l3aEp1bb7LUJuXN_vr3pM4tVtuyeh2B4zqA/viewform
+```
+
+### Primary school teachers
+
+```text
+📚 Si enseñas matemáticas en primaria, esta encuesta es para ti.
+
+💬 Comparte tu experiencia en el aula y cómo has acompañado a tus estudiantes durante las últimas cuatro semanas.
+
+🔗 https://docs.google.com/forms/d/e/1FAIpQLScCEOnoUi7v-eVGhhQGighLfkUTN3nrFdftYsZTte4GRvvknA/viewform
+```
 
 ## Current version
 
